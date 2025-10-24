@@ -11,7 +11,7 @@ const bookContent = {
   overview: "LIVE ON EARTH FOREVER GET YOUR LIFE EXTENDED UP TO 8000 YEARS WITHOUT DYING, THIS IS NOT A JOKE, IT IS BASED ON SCIENCE. WE ARE SELLING THE CURE FOR DEATH. THE AGT IS THE BEST TECHNOLOGY EVER BUILT ON EARTH, SO LIVE THE BEST LIFE EVER. The technology is called Advanced GeneticSynthesis Technology AGT. It involves using multiple technologies to reverse aging, and cure all diseases including cancer, HIV, diabetes, and others. We use a combination of gene editing, cellular reprogramming, and advanced drug delivery systems to rejuvenate the body at a cellular level.",
   benefits: [
     "Removes menopause in women and allows them to have children at any age.",
-    "Cures all known human diseases including cancer, HIV, diabetes, and all others.",
+    "Cures all known human diseases including cancer, kidney condition, diabetes, and all others.",
     "Increases human intelligence (IQ) by a factor of 10.",
     "Reverses aging and makes you look and feel younger.",
     "Increases physical strength and stamina.",
