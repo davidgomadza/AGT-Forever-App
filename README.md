@@ -1,27 +1,17 @@
-# Ad Game (WorldCoin Mini App)
+# The AGT (WorldCoin Mini App)
 
 
-**AD GAME** is a unique blend of content consumption and gamified rewards, powered by Worldcoin. The platform offers a seamless experience where users engage with content tailored to their interests, participate in trivia, and earn chances to win valuable prizes.
-
+**The AGT** is an out of this way to increase your life span by accumulating life as years on top of your life through buying and paying for the AGT and getting rewards, powered by Tomorrow's World Order and Worldcoin. Users must engage with Tomorrow's World Order to get the AGT then use the AGT as collateral to borrow bitcoin AGT BTCGT and bitcoinayt BTCYT.
 ## Key Features
-
-- **Targeted Content**: Users are presented with videos and content that align with their interests, ensuring a personalized and relevant experience.
-  
-- **Interactive Quizzes**: After watching the content, users participate in trivia or answer questions related to the video, adding an element of fun and engagement.
-
-- **Earn Rewards**: Correct answers give users a chance to enter a raffle with a defined probability (around 30%) of winning immediate prizes.
-
-- **Worldcoin Integration**: Prizes are delivered as Worldcoin rewards, encouraging users to further engage within the Worldcoin ecosystem for purchases and payments.
-
-## Why AD GAME?
-
+- **Targeted Content**: Users are presented with the chance to live on earth forever and must believe then take the opportunity then become ambassadors to push for mass adoption. Hence only those interested will find this exciting and rewarding.
+- **Interactive Quizzes**: We have a lot of books about life and death and living on earth forever. They learn more about what to expect and do through quizzes like; The Great Intelligence Riddle. Lots of chances to win life and increase years on earth
+- **Earn Rewards**: There are a lot of prizes to win some just for visiting our websites; https://bitcoinayt.world and https://twofuture.world
+- **Worldcoin Integration**: Prizes are also delivered as Worldcoin rewards, encouraging users to further engage within the Worldcoin ecosystem for purchases and payments.
+## Why The AGT?
 ### Powered by Worldcoin
-
-- **Verified Engagement**: Leveraging Worldcoin's unique identity verification, AD GAME ensures that every interaction is with real, engaged users, reducing fraud and maximizing impact.
-
+- **Verified Engagement**: Leveraging Worldcoin's unique identity verification, means interacting with proven humans increasing a sense of identity and privilege.
 ### Targeted Rewards
-
-- **Personalized Offers**: The platform delivers personalized rewards based on verified user preferences, enhancing engagement and driving higher conversion rates.
+- **Personalized Offers**: There can never be another app that offer so personalised experience and interactions as the AGTThe platform delivers personalized rewards based on verified user preferences, enhancing engagement and driving higher conversion rates.
 
 ### Global Reach & Fraud Prevention
 
